@@ -23,7 +23,6 @@ defusedxml==0.7.1
 entrypoints==0.3
 Fiona==1.8.20
 folium==0.12.1
-GDAL==3.3.2
 geopandas==0.10.0
 gitdb==4.0.7
 GitPython==3.1.24
