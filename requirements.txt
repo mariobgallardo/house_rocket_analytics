@@ -23,6 +23,7 @@ defusedxml==0.7.1
 entrypoints==0.3
 Fiona==1.8.20
 folium==0.12.1
+GDAL==3.3.2
 geopandas==0.10.0
 gitdb==4.0.7
 GitPython==3.1.24
@@ -70,6 +71,8 @@ pyparsing==2.4.7
 pyproj==3.2.1
 pyrsistent==0.17.3
 python-dateutil==2.8.1
+pytz==2021.3
+pywin32==300
 pywinpty==1.0.1
 pyzmq==22.0.3
 qtconsole==5.1.0
