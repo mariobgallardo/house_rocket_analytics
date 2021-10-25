@@ -21,10 +21,10 @@ DateTime==4.3
 decorator==5.0.7
 defusedxml==0.7.1
 entrypoints==0.3
-Fiona @ file:///C:/Users/Mario/Geopandas%20Dependencies/Fiona-1.8.20-cp39-cp39-win_amd64.whl
+Fiona==1.8.20
 folium==0.12.1
-GDAL @ file:///C:/Users/Mario/Geopandas%20Dependencies/GDAL-3.3.2-cp39-cp39-win_amd64.whl
-geopandas @ file:///C:/Users/Mario/Geopandas%20Dependencies/geopandas-0.10.0-py2.py3-none-any.whl
+GDAL==3.3.2
+geopandas==0.10.0
 gitdb==4.0.7
 GitPython==3.1.24
 idna==3.2
@@ -68,7 +68,7 @@ pycparser==2.20
 pydeck==0.7.0
 Pygments==2.9.0
 pyparsing==2.4.7
-pyproj @ file:///C:/Users/Mario/Geopandas%20Dependencies/pyproj-3.2.1-cp39-cp39-win_amd64.whl
+pyproj==3.2.1
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2021.3
@@ -81,7 +81,7 @@ requests==2.26.0
 scipy==1.7.1
 seaborn==0.11.2
 Send2Trash==1.5.0
-Shapely @ file:///C:/Users/Mario/Geopandas%20Dependencies/Shapely-1.7.1-cp39-cp39-win_amd64.whl
+Shapely==1.7.1
 six==1.15.0
 smmap==4.0.0
 streamlit==1.0.0
